@@ -9,3 +9,5 @@ subprojects/usrsctp
 webui/.next
 
 .direnv/
+.venv
+.opencode
